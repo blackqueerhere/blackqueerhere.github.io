@@ -1,0 +1,97 @@
+
+
+body {
+
+	background-color: cyan
+
+}
+
+
+.container-fluid {
+
+background-color: cyan	
+}
+
+.navbar-brand {
+
+background-color: cyan;
+}
+
+
+
+h1 {
+
+text-align: center;
+color: brown;
+}
+
+
+p {
+	text-align: center;
+	font-size: x-large;
+	color: brown;
+}
+
+.navbar1 {
+background-color: cyan	
+}
+
+a {
+	color:brown ;
+}
+
+.first {
+
+color: black
+
+}
+
+
+.second {
+
+color: brown
+
+}
+
+
+.third {
+
+color: red 
+
+}
+
+
+.fourth {
+
+color: orange
+
+}
+
+
+.fifth {
+
+color: yellow 
+
+}
+
+
+.sixth {
+
+color: green 
+
+
+}
+
+
+.seven {
+
+color: blue 
+
+}
+
+
+.eight {
+
+color: 	purple
+
+}
