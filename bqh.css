@@ -23,6 +23,7 @@ h1 {
 
 text-align: center;
 color: brown;
+font-family: 'Ranchers', cursive;
 }
 
 
@@ -30,6 +31,7 @@ p {
 	text-align: center;
 	font-size: x-large;
 	color: brown;
+	font-family: 'Ranchers', cursive;
 }
 
 .navbar1 {
@@ -38,6 +40,7 @@ background-color: cyan
 
 a {
 	color:brown ;
+	font-family: 'Bungee', cursive;
 }
 
 .first {
